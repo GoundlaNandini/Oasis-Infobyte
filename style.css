@@ -1,0 +1,61 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url(port.jpg);
+    background-position: center;
+    background-size: cover;
+    }
+
+header {
+    
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+h2 {
+    color:white;
+}
+.projects {
+    padding-top: 20px;
+    position: absolute;
+    top: 25%;
+    left: 75%;
+}
+.about{
+    padding-top: 20px;
+    position: absolute;
+    top: 25%;
+    left: 2%;
+}
+p{
+    color: white;
+}
+.pro h3{
+    color: white;
+} 
+
+.pro2 h3{
+    color: white;
+}
+.project img {
+    max-width: 100%;
+    border-radius: 5px;
+    margin-bottom: 1em;
+}
+.Contact {
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 2%;
+}
+.Contact p1{
+    color: white;
+}
+.cl{
+     color: white;
+     position: absolute;
+     top: 90%;
+     text-align: center;
+     left: 43%;
+}
+
+
